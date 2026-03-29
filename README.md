@@ -2,7 +2,7 @@
 
 Do TRUE and FALSE mathematical implications cluster differently in sentence embedding space?
 
-An exploration on the [equational_theories](https://github.com/teorth/equational_theories?tab=readme-ov-file) dataset, which contains mathematical implications labeled as TRUE or FALSE.
+An exploration on the [SAIR Mathematics Distillation Challenge](https://competition.sair.foundation/competitions/mathematics-distillation-challenge-equational-theories-stage1/data) using the [equational_theories](https://github.com/teorth/equational_theories?tab=readme-ov-file) dataset, which contains mathematical implications labeled as TRUE or FALSE.
 
 ---
 
