@@ -1,0 +1,10 @@
+split,template,group_by,n_groups,acc,bacc,auc
+hard2,raw,eq1,149,0.77,0.7737,0.8759
+hard2,natural,eq1,149,0.79,0.7945,0.894
+hard2,conjoined,eq1,149,0.795,0.7976,0.8804
+hard2,eq1_only,eq1,149,0.89,0.8844,0.9618
+hard2,eq2_only,eq1,149,0.64,0.649,0.6827
+hard2,formal_query,eq1,149,0.815,0.8173,0.9032
+hard2,countermodel,eq1,149,0.8,0.8027,0.871
+hard2,countermodel2,eq1,149,0.79,0.7959,0.8875
+hard2,separate,eq1,149,0.87,0.8697,0.9339

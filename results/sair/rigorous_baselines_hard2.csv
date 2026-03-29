@@ -1,0 +1,10 @@
+baseline,acc,bacc,auc
+random labels,0.5,0.5,0.5
+majority class constant,0.5,0.5,0.5
+equation lengths only,0.69,0.69,0.671
+operator/symbol counts,0.785,0.785,0.7822
+char TF-IDF (2-4 gram),0.73,0.73,0.825
+shuffled eq2 (broken pairing),0.685,0.685,0.7455
+canonical variable names (TF-IDF),0.715,0.715,0.812
+swapped equation order,0.73,0.73,0.825
+parenthesis/operator profile only,0.74,0.74,0.7978

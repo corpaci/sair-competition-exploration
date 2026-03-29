@@ -1,0 +1,2 @@
+model,acc,bacc,auc,acc_std
+all-MiniLM-L6-v2,0.84,0.84,0.934,0.0583
