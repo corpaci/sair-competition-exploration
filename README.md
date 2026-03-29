@@ -87,6 +87,12 @@ python visualize_results.py
 
 ---
 
+## Results
+
+![Comprehensive results](results/sair/results_comprehensive.png)
+
+---
+
 ## Typical workflow
 
 ```bash
